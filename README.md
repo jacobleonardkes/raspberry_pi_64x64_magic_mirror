@@ -1,3 +1,7 @@
+THIS IS COPIED FROM THE ORIGINAL ADAFRUIT TUTORIAL.
+I'm just making a fork so I can play with my own modifications.
+Others free to use my modifications.
+
 Controlling RGB LED display with Raspberry Pi GPIO
 ==================================================
 
